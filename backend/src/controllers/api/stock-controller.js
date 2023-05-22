@@ -1,4 +1,4 @@
-const { Producto } = require("../database/models");
+const { Producto } = require("../../database/models");
 
 module.exports = {
   showStock: (req, res) => {
