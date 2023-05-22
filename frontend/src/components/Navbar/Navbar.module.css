@@ -1,0 +1,12 @@
+header {
+  background-color: darkgray;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 1rem;
+  background-color: darkgray;
+  display: flex;
+  justify-content: space-evenly;
+}
