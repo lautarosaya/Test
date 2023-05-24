@@ -6,11 +6,11 @@ const Navbar = () => {
     <header>
       <nav>
         <ul>
+          <Link to="/">
+            <li>Home</li>
+          </Link>
           <Link to="/stock">
             <li>Stock</li>
-          </Link>
-          <Link to="/producto">
-            <li>ABM Productos</li>
           </Link>
         </ul>
       </nav>
